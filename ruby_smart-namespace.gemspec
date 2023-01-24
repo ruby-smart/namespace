@@ -38,5 +38,6 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency 'rake', '~> 13.0'
   spec.add_development_dependency 'rspec', '~> 3.0'
-  spec.add_development_dependency 'simplecov', '~> 0.21'
+  spec.add_development_dependency 'coveralls_reborn', '~> 0.25'
+  spec.add_development_dependency 'yard', '~> 0.9'
 end

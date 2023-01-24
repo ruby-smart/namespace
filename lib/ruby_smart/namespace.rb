@@ -3,3 +3,8 @@
 require_relative "namespace/version"
 require_relative "namespace/base"
 require_relative "namespace/core_ext/ruby/object"
+
+module RubySmart
+  module Namespace
+  end
+end

@@ -1,8 +1,14 @@
 # RubySmart::Namespace
 
-[![Gem Version](https://badge.fury.io/rb/ruby_smart-namespace.svg)](https://badge.fury.io/rb/ruby_smart-namespace)
-[![Test](https://github.com/ruby-smart/namespace/actions/workflows/ruby.yml/badge.svg)](https://github.com/ruby-smart/namespace/actions/workflows/ruby.yml)
-[![RubySmart::Support Build Status](https://shields.io/github/workflow/status/ruby-smart/namespace/Test)](https://github.com/ruby-smart/namespace/actions)
+
+[![GitHub](https://img.shields.io/badge/github-ruby--smart/namespace-blue.svg)](http://github.com/ruby-smart/namespace)
+[![Documentation](https://img.shields.io/badge/docs-rdoc.info-blue.svg)](http://rubydoc.info/gems/ruby_smart-namespace)
+
+[![Gem Version](https://badge.fury.io/rb/ruby_smart-namespace.svg?kill_cache=1)](https://badge.fury.io/rb/ruby_smart-namespace)
+[![License](https://img.shields.io/github/license/ruby-smart/namespace)](docs/LICENSE.txt)
+
+[![Coverage Status](https://coveralls.io/repos/github/ruby-smart/namespace/badge.svg?branch=main&kill_cache=1)](https://coveralls.io/github/ruby-smart/namespace?branch=main)
+[![Tests](https://github.com/ruby-smart/namespace/actions/workflows/ruby.yml/badge.svg)](https://github.com/ruby-smart/namespace/actions/workflows/ruby.yml)
 
 Unified namespace for Ruby applications
 

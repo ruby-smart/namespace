@@ -1,5 +1,12 @@
 # RubySmart::Namespace - CHANGELOG
 
+## [1.0.1] - 2023-01-24
+* **[add]** coveralls gem
+* **[ref]** update gemspecs
+* **[ref]** update yard
+* **[ref]** README.md
+
+
 ## [1.0.0] - 2022-11-12
 * **[ref]** move Namespace from GTC to RubySmart
 * **[ref]** `Namespace.transform` options to also use a double-underscore as suffix (e.g. \_\_scope\_\_)
